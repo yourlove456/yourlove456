@@ -1,4 +1,4 @@
-# Yourlove456&nbsp;<img src="https://github.com/Yourlove456/Kinetic27/blob/master/sans.gif" width="30px"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FKinetic27%2FKinetic27)](https://hits.seeyoufarm.com) 
+# Yourlove456&nbsp;<img src="https://github.com/Yourlove456/" width="30px"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYourlove456%2FYourlove456)](https://hits.seeyoufarm.com) 
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Yourlove456's%20Github&fontSize=40)
 
@@ -12,7 +12,7 @@
   </em>  
 </p>
 
-![Yourlove456's github stats](https://github-readme-stats.vercel.app/api?username=Yourlove456&show_icons=true&theme=radical)
+![Yourlove456's github stats](https://github-readme-stats.vercel.app/api?username=Yourlove456&show_icons=true&theme=merko)
 [![Yourlove456's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yourlove456&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Yourlove456)
 ### Online Judge 💻
 
