@@ -13,29 +13,19 @@
 </p>
 
 ![Yourlove456's github stats](https://github-readme-stats.vercel.app/api?username=yourlove456&show_icons=true&theme=tokyonight)
-[![Yourlove456's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Yourlove456&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/Yourlove456)
-### Online Judge 💻
-
-* BOJ: [Yourlove456](http://icpc.me/Yourlove456)
-  * solvedac: [Yourlove456](https://solved.ac/profile/Yourlove456)
-  
 [![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=Yourlove456)](https://solved.ac/Yourlove456)
-<!--
-### Project ⚡
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/yourlove456)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com///)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/https://www.youtube.com/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://blog.naver.com/yourlove456)  
 
-* Development Diary Blog([blog](https://kinetic27.github.io))
-* [Unknown to Wellknown](https://github.com/justiceHui/Unknown-To-Wellknown): Advanced Algorithm Introduction
-* [814Solver](https://github.com/kimjg1119/814Solver): [BOJ 18789 814-2](https://www.acmicpc.net/problem/18789) solver using Genetic Algorithm
--->
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-### Contacts 📫
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourlove456)](https://github.com/anuraghazra/github-readme-stats)
 
-* Github Repo Issue
-* Email: yourlove456@naver.com
+![GitHub metrics](https://metrics.lecoq.io/yourlove456)  
 
-  <div align=center>
- [![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://yourlove456.github.io/)](https://yourlove456.github.io/)
-  </div>
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=yourlove456)  
+
+
+
 
   
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
