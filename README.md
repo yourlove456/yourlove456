@@ -34,10 +34,11 @@
 * Email: yourlove456@naver.com
 
   <div align=center>
-  
-  [![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://yourlove456.github.io/)](https://yourlove456.github.io/) 
- [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
-	
+ [![My Tech Blog Badge](http://img.shields.io/badge/-My%20Tech%20blog-black?style=flat-square&logo=github&link=https://yourlove456.github.io/)](https://yourlove456.github.io/)
   </div>
+  <div align=center>
+ [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat- square&logo=youtube&link=https://www.youtube.com/c/kyleschool)](https://www.youtube.com/c/kyleschool)
+</div>	
+
   
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
