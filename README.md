@@ -1,8 +1,9 @@
-# Yourlove456&nbsp;<img src="https://github.com/Yourlove456/" width="30px"> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYourlove456%2FYourlove456)](https://hits.seeyoufarm.com) 
+# yourlove456&nbsp;
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyourlove456&count_bg=%23EFA1F1&title_bg=%2368A5CB&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=Yourlove456's%20Github&fontSize=40)
 
-### Hello world!&nbsp;<img src="https://github.com/" width="24px">
+### Hello world!
 
 <p>
   <em>
