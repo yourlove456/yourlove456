@@ -17,8 +17,6 @@
 
 ![Yourlove456's github stats](https://github-readme-stats.vercel.app/api?username=yourlove456&show_icons=true&theme=tokyonight)
 
-[![Solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=Yourlove456)](https://solved.ac/Yourlove456)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourlove456)](https://github.com/anuraghazra/github-readme-stats)
 
 
