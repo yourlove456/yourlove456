@@ -17,9 +17,10 @@
 <br/>
 ![Yourlove456's github stats](https://github-readme-stats.vercel.app/api?username=myoungji-kim&show_icons=true&theme=tokyonight)
 <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myoungji-kim)](https://github.com/anuraghazra/github-readme-stats)
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=myoungji)](https://solved.ac/yourlove456)
 <br/>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=myoungji)](https://solved.ac/myoungji)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=myoungji-kim)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=150&section=footer)
