@@ -13,6 +13,8 @@
   </em>  
 </p>
 
+ <img src="https://img.shields.io/badge/Email-F7E600?style=flat&logo=Gmail&logoColor=white"/>
+
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=myoungji-kim)
 <br/>
 ![Yourlove456's github stats](https://github-readme-stats.vercel.app/api?username=myoungji-kim&show_icons=true&theme=tokyonight)
